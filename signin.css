@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.mymargin{
+margin: 20px;
+}
+body{
+    background-size: cover;
+}
+
+footer{
+    color:white;
+    text-align: center;
+    height: 50px;
+  
+}
+#sign{
+margin-top: 20px;
+}
+form{
+    align-items: center;
+    ba
+}
+.form-group{
+    color: beige;
+    
+}
+button{
+    align-self: center;
+}

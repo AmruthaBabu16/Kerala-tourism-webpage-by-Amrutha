@@ -1,0 +1,28 @@
+
+.navbar{
+    background-color: darkslategrey;
+    
+}
+.navbar h2{
+color: greenyellow;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#img1{
+    margin-left: 20px;
+}
+.anchor{
+    padding-right: 15px;
+    align-items: center;
+}
+#about{
+    margin-right: 20px;
+    color: greenyellow;
+    text-decoration: none;
+}
+.beach p {
+    color: black;
+}
+.beach h4{
+    color: black;
+}

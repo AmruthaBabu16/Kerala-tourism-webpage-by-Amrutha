@@ -1,0 +1,15 @@
+.navbar{
+    background-color: lightslategray;
+    color: lightyellow;
+}
+img{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+ol{
+    margin-left: 300px;
+    padding-top: 20px;
+}
+.row{
+     align-items: center;
+}
